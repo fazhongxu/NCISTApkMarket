@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--本应用新版本下载api-->
+    <string name="version_download_api">http://192.168.1.105:8080/</string>
+    <string name="forum_api">http://192.168.1.105:8080/myjsp/forum.jsp</string>
+
+    <!--软件app 服务器地址-->
+    <string name="app_api">http://192.168.1.105:8080/ncistServer/</string>
+    <string name="app_detail_api">http://192.168.1.105:8080/ncistServer/detail?packageName=</string>
+    <!--应用rul子路径-->
+    <string name="apps">apps</string>
+    <!--游戏url子路径-->
+    <string name="game">game</string>
+
+</resources>

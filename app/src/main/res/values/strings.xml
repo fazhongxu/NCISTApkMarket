@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">NCIST</string>
+    <string name="copyright">Copyright©2017 By 许发仲</string>
+    <string name="welcome">华科应用商店</string>
+
+    <string name="search_newversion_hint">"发现新版本("</string>
+    <string name="search_download_hint">")是否下载?"</string>
+    <string name="dialog_download">"下载"</string>
+    <string name="dialog_download_after">"下次再说"</string>
+
+    <!--底部导航栏文字-->
+    <string name="bottom_navigation_home">首页</string>
+    <string name="bottom_navigation_software">软件</string>
+    <string name="bottom_navigation_beauty">排行</string>
+    <string name="bottom_navigation_circle">圈子</string>
+    <string name="bottom_navigation_mine">我的</string>
+
+    <string name="install">安装</string>
+    <string name="no_description">暂无描述</string>
+
+    <string name="theme_switch">主题切换</string>
+    <string name="settings">设置</string>
+    <string name="share">分享</string>
+
+    <string name="app_introduce">应用介绍</string>
+    <string name="app_msg"> 应用详情</string>
+
+    <string name="app_version"> 应用版本</string>
+    <string name="app_date"> 发布日期</string>
+
+    <string name="app_detail">应用详情</string>
+    <string name="exit_application">" 再按一次退出应用</string>
+
+</resources>
